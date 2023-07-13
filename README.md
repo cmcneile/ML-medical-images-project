@@ -37,6 +37,13 @@ See [here for information about access](https://www.plymouth.ac.uk/about-us/univ
 )
 * [neural networks and convolutional neural networks essential training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?u=26140778)
 
+## Data sets
+
+An important issue is finding a good data set.
+
+* [kaggle](https://www.kaggle.com/)
+* (https://openneuro.org/)
+
 ## Background reading (Books)
 
 * The Hundred-Page Machine Learning Book
