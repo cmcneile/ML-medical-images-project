@@ -2,6 +2,13 @@
 
 ## Introduction
 
+The aim of this project is develop classifiers for medical images,
+such as X-rays. For example, the classifier is trained on images
+of lungs, some of which may be labelled as having covid of being
+healthy. The clasifier then should be able to determine whether a new x-ray
+of a lung is healthy or the patient has covid. See
+[this general review of classifiers of medical images](https://www.sciencedirect.com/science/article/pii/S093938891830120X).
+
 ## Tutorials
 
 To learn about the basic idea of building image classifiers, please
@@ -10,7 +17,10 @@ work thorugh the following online tutorial.
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 * Work through this kaggle tutorial on building an image classifier
   [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
-* [Computer Vision] (https://www.kaggle.com/learn/computer-vision) 
+* [Computer Vision](https://www.kaggle.com/learn/computer-vision) 
+
+See this example of an image classifier for
+[Brain Tumor Detection](https://www.kaggle.com/code/aniketkadam702030/brain-mri-inceptionv3/notebook).
 
 ##  Background videos
 
