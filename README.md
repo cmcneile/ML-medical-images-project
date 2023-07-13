@@ -43,6 +43,7 @@ An important issue is finding a good data set.
 
 * [kaggle](https://www.kaggle.com/)
 * (https://openneuro.org/)
+* (https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/?s=09)
 
 ##  Model evaluation
 
