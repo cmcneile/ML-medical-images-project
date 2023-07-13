@@ -19,6 +19,12 @@ work thorugh the following online tutorial.
   [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 * [Computer Vision](https://www.kaggle.com/learn/computer-vision) 
 
+The use of Jupyter notebooks is recommended to run python.
+
+* https://jupyter.org/
+* Google allows jupyter notebooks to run in their data centers [Google collab](https://colab.research.google.com/)
+
+
 See this example of an image classifier for
 [Brain Tumor Detection](https://www.kaggle.com/code/aniketkadam702030/brain-mri-inceptionv3/notebook).
 
