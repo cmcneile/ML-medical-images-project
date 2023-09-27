@@ -58,7 +58,7 @@ An important issue is finding a good data set.
 [and here](https://atmamani.github.io/projects/ml/mnist-digits-classification-using-logistic-regression-scikit-learn/).
 Compute numbers
 such as accuracy, precision and recall.
-* Investigate the use of  [Code Carbon] (https://codecarbon.io/) to measure the
+* Investigate the use of  [Code Carbon](https://codecarbon.io/) to measure the
 energy use. Are the numbers reasonable, can the numbers on energy used
 be calibrated and tested.
 * Use Code Carbon to measure the energy of efficiency of the digit classifiers.
@@ -80,7 +80,7 @@ by Andriy Burkov. You can read chapters for free at (http://themlbook.com/)
 
 The project can be extended in different ways
 
-* [Explainable AI] (https://www.ibm.com/topics/explainable-ai)
+* [Explainable AI](https://www.ibm.com/topics/explainable-ai)
 
 * [Green AI](https://hbr.org/2023/07/how-to-make-generative-ai-greener)
   See this python package that will estimate the carbon cost
