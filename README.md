@@ -59,8 +59,9 @@ An important issue is finding a good data set.
 Compute numbers
 such as accuracy, precision and recall.
 * Investigate the use of  [Code Carbon](https://codecarbon.io/) to measure the
-energy use. Are the numbers reasonable, can the numbers on energy used
-be calibrated and tested.
+energy use. Instructions on installing the python modules
+are here https://pypi.org/project/codecarbon/. Are the numbers reasonable, can the numbers on energy used
+be calibrated and tested?
 * Use Code Carbon to measure the energy of efficiency of the digit classifiers.
 * Do a literature search on energy consumption used by data science and AI.
 Are there any lessons from thermodynamics on energy efficiency.
