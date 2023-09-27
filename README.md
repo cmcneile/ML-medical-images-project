@@ -51,6 +51,22 @@ An important issue is finding a good data set.
 * (Interpretability versus explainability)[https://docs.aws.amazon.com/whitepapers/latest/model-explainability-aws-ai-ml/interpretability-versus-explainability.html]
 * [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545)
 
+## Project Plan
+
+* Write some code classify [hand written images of numbers](https://en.wikipedia.org/wiki/MNIST_database). Explore a few different networks and algorithms
+[see here](https://keras.io/examples/vision/mnist_convnet/).
+[and here](https://atmamani.github.io/projects/ml/mnist-digits-classification-using-logistic-regression-scikit-learn/).
+Compute numbers
+such as accuracy, precision and recall.
+* Investigate the use of  [Code Carbon] (https://codecarbon.io/) to measure the
+energy use. Are the numbers reasonable, can the numbers on energy used
+be calibrated and tested.
+* Use Code Carbon to measure the energy of efficiency of the digit classifiers.
+* Do a literature search on energy consumption used by data science and AI.
+Are there any lessons from thermodynamics on energy efficiency.
+* Write and tune a classifier for the brain tumour images.
+* Investigate the energy consumption of the brain tumour classifier.
+
 ## Background reading (Books)
 
 * [Book: Neural Networks and Deep Learning (Nielsen) ](https://eng.libretexts.org/Bookshelves/Computer_Science/Applied_Programming/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen))
