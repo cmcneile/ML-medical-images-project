@@ -53,7 +53,20 @@ An important issue is finding a good data set.
 
 ## Background reading (Books)
 
+* [Book: Neural Networks and Deep Learning (Nielsen) ](https://eng.libretexts.org/Bookshelves/Computer_Science/Applied_Programming/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen))
+
 * The Hundred-Page Machine Learning Book
 by Andriy Burkov. You can read chapters for free at (http://themlbook.com/)
 
 * Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+
+##  Futher Directions
+
+The project can be extended in different ways
+
+* [Explainable AI] (https://www.ibm.com/topics/explainable-ai)
+
+* [Green AI](https://hbr.org/2023/07/how-to-make-generative-ai-greener)
+  See this python package that will estimate the carbon cost
+  [Code Carbon] (https://codecarbon.io/)
+
