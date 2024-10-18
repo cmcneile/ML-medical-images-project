@@ -82,7 +82,7 @@ Are there any lessons from thermodynamics on energy efficiency.
 Compute numbers
 such as accuracy, precision and recall.
 * Investigate the use of [Conformal prediction](https://en.wikipedia.org/wiki/Conformal_prediction) to compute the error on the classifier.
-
+* The [mapie library](https://mapie.readthedocs.io/en/latest/) implements conformal prediction.
 
 ## Background reading (Books)
 
